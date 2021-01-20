@@ -2,7 +2,7 @@
 
 $host = 'localhost';
 $username = 'root';
-$password = '081100';
+$password = '';
 $database = 'perpustakaan_uas';
 
 $con = mysqli_connect($host,$username,$password,$database);
