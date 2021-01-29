@@ -12,9 +12,9 @@
 
  //Menghapus Nilai pada Database
  if(mysqli_query($con,$sql)){
- echo 'Berhasil Menghapus Pegawai';
+ echo 'Berhasil Menghapus Anggota';
  }else{
- echo 'Gagal Menghapus Pegawai';
+ echo 'Gagal Menghapus Anggota';
  }
 
  mysqli_close($con);
