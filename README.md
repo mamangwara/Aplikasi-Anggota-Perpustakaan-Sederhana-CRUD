@@ -1,5 +1,4 @@
-# UAS_CRUD-AndroidSederhana
-Aplikasi CRUD Android Sederhana
+Source code Aplikasi CRUD Anggota Perpustakaan Sederhana
 Menggunakan :
 1. MySQL
 2. PHP
