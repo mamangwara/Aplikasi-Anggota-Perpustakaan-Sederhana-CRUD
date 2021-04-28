@@ -1,4 +1,4 @@
-Source code Aplikasi CRUD Anggota Perpustakaan Sederhana
+Source code Aplikasi Keanggotaan Perpustakaan Sederhana
 Menggunakan :
 1. MySQL
 2. PHP
